@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Beads, Bracelets, And Beyond!</title>
+<style>
+/* Add your CSS styles here */
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+nav {
+background-color: gold; /* Gold background for the navigation bar */
+color: #fff;
+padding: 10px 0;
+text-align: center;
+}
+nav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+nav ul li {
+display: inline;
+margin-right: 20px;
+}
+nav ul li a {
+color: #fff;
+text-decoration: none;
+}
+nav ul li a:hover {
+text-decoration: underline;
+}
+section {
+padding: 20px;
+text-align: center;
+}
+#home {
+background-color: lightpink; /* Light pink background for the home section */
+}
+#about {
+background-color: lightpink; /* Light pink background for the about section */
+}
+</style>
+</head>
+<body>
+
+<nav>
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#about">About Us</a></li>
+<!-- Add links for other pages -->
+</ul>
+</nav>
+
+<section id="home">
+<h1>Welcome to My Website!</h1>
+<p>Explore our collection of handmade jewelry, crafted with love by me and my siblings. Each piece is unique and perfect for adding a touch of style to any outfit! Plus, we have jewelry to match every outfit you wear!</p>
+</section>
+
+<section id="about">
+<h2>About Us</h2>
+<p>We are a family of jewelry makers passionate about creating beautiful pieces for every occasion. Learn more about our story and our commitment to quality craftsmanship.</p>
+</section>
+
+<!-- Add more sections for other pages -->
+
+</body>
+</html>
